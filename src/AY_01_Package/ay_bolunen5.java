@@ -2,7 +2,7 @@ package AY_01_Package;
 
 import java.util.Scanner;
 
-public class ay_bolunen5le {
+public class ay_bolunen5 {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         System.out.println("lutfen bir sayi giriniz");
