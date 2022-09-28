@@ -2,7 +2,7 @@ package AY_01_Package;
 
 import java.util.Scanner;
 
-public class gay_charyazdirma {
+public class ay_charyazdirma {
     public static void main(String[] args) {
         // Soru 2- Kullanicidan bir harf alin ve alfabede o harften sonraki 3 harfi yazdirin//
         Scanner scan= new Scanner(System.in);
