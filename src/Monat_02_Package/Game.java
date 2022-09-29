@@ -1,4 +1,4 @@
-package AY_02_Package;
+package Monat_02_Package;
 
 import java.util.Random;
 import java.util.Scanner;

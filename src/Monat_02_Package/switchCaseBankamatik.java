@@ -1,4 +1,4 @@
-package AY_02_Package;
+package Monat_02_Package;
 import java.util.Scanner;
 public class switchCaseBankamatik {
     public static void main(String[] args) {

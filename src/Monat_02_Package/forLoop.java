@@ -1,4 +1,4 @@
-package AY_02_Package;
+package Monat_02_Package;
 public class forLoop {
     public static void main(String[] args) {
         // 1'den 50'e kadar(50 dahil) olan sayilari yan yana

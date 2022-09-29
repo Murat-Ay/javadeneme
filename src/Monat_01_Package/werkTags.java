@@ -2,7 +2,7 @@ package Monat_01_Package;
 
 import java.util.Scanner;
 
-public class ay_calismaGunu {
+public class werkTags {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         System.out.println("Lutfen bir gun ismi giriniz");
