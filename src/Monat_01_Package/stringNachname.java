@@ -2,11 +2,11 @@ package Monat_01_Package;
 
 import java.util.Scanner;
 
-public class stringIsimSoyisim {
+public class stringNachname {
     public static void main(String[] args) {
 
     Scanner scan= new Scanner(System.in);
-    System.out.println("Lutfen bilgilerinizi iki isimi tek soyisimli giriniz");
+    System.out.println("Lutfen bilgilerinizi iki isimli tek soyisimli giriniz");
 
     String adSoyad=scan.nextLine();
     String isim=adSoyad.substring(0,adSoyad.lastIndexOf(" "));
