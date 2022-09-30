@@ -2,7 +2,7 @@ package Monat_01_Package;
 
 import java.util.Scanner;
 
-public class ay_datacastingSwap {
+public class dataCastingSwap {
     public static void main(String[] args) {
         //Soru 7 (Interview)- Kullanicidan iki sayi alip ikisinin degerlerini degistirin(swap)//
         Scanner scan = new Scanner(System.in);

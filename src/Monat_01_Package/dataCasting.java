@@ -1,6 +1,6 @@
 package Monat_01_Package;
 
-public class DataCasting {
+public class dataCasting {
 
         public static void main(String[] args) {
             String isim="Recep";
