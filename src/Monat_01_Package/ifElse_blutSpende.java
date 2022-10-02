@@ -2,7 +2,7 @@ package Monat_01_Package;
 
 import java.util.Scanner;
 
-public class ay_ifElse_yaskilo {
+public class ifElse_blutSpende {
     public static void main(String[] args) {
 
         /*Kullanicidan  yasini ve kilosunu aliniz

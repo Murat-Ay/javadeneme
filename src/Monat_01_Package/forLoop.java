@@ -1,6 +1,6 @@
 package Monat_01_Package;
 
-public class ay_forLoop {
+public class forLoop {
     public static void main(String[] args) {
         // 1'den 50'e kadar(50 dahil) olan sayilari yan yana
         // aralarinda bir bosluk birakarak yazdiralim
