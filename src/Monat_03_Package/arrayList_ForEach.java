@@ -1,14 +1,11 @@
 package Monat_03_Package;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-
-public class ArrayList_ForEach {
+public class arrayList_ForEach {
         public static void main(String[] args) {
-         //verilen bir array'in tum elementlerini
-         //olusturacaginiz bir list'e ekleyin
+         //verilen bir array'in tum elementlerini olusturacaginiz bir list'e ekleyin
 
             int[] arr = {2,3,5,6,7,5,3,2,5,7,4,3,3,56,72,9};
             List<Integer> sayilar=new ArrayList<>();

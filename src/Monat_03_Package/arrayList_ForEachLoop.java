@@ -3,7 +3,7 @@ package Monat_03_Package;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArrayList_ForEachL {
+public class arrayList_ForEachLoop {
         public static void main(String[] args) {
             //Verilen String bir listede istenmeyen harf iceren elementleri
             //silip, kalan kismini bize donduren bir method olusturun.

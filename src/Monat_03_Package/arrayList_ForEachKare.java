@@ -1,6 +1,6 @@
 package Monat_03_Package;
 
-public class ArrayList_ForEachKare {
+public class arrayList_ForEachKare {
     public static void main(String[] args) {
         //Verilen double bir array'deki tum elementlerin karelerini toplayip yazdirin
 
@@ -17,7 +17,7 @@ public class ArrayList_ForEachKare {
         public static void main(String[] args) {
             int sayi=12;
             int sayi1=13;
-            VoidMethod.indirimliFiyatHesapla(false,3,600);
+            voidMethod.indirimliFiyatHesapla(false,3,600);
 
             }
         }

@@ -1,6 +1,5 @@
 package Monat_03_Package;
-
-public class ArrayList_ForUndEachLoop {
+public class arrayList_For_EachLoop {
         public static void main(String[] args) {
             // Verilen bir array'in tum elementlerini yazdirin
             int [] arr ={2,3,4,5,9};

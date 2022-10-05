@@ -1,6 +1,6 @@
 package Monat_03_Package;
 
-public class methodOlusturma {
+public class methodErschaffen {
     public static void main(String[] args) {
        /* verilen 3 integer'i toplayip
         sonucu bize donduren bir method olusturun. */

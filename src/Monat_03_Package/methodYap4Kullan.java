@@ -1,6 +1,5 @@
 package Monat_03_Package;
-
-public class MethodYap4Kullan {
+public class methodYap4Kullan {
     public static void toplama(int sayi1, int sayi2) {
         int sonuc = sayi1 + sayi2;
         System.out.println(sayi1 + " + " + sayi2 + " = " + sonuc);
@@ -17,9 +16,8 @@ public class MethodYap4Kullan {
         int sonuc = sayi1 / sayi2;
         System.out.println(sayi1 + " / " + sayi2 + " = " + sonuc);
     }
-
     public static void main(String[] args) {
-        MethodYap4Kullan.bolme(24,2);
+        methodYap4Kullan.bolme(24,2);
 
 
     }

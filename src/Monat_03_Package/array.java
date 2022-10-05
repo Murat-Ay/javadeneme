@@ -2,7 +2,7 @@ package Monat_03_Package;
 
 import java.util.Arrays;
 
-public class Array {
+public class array {
     public static void main(String[] args) {
     int[] arr={1,8,3,9,15};
         System.out.println(arr);//[I@58372a00

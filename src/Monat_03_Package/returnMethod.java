@@ -1,6 +1,6 @@
 package Monat_03_Package;
 
-public class ReturnMethod {
+public class returnMethod {
     public static void main(String[] args) {
         String isim ="alivelI";
         String soyisim ="ayDINLI";

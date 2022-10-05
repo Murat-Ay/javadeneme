@@ -1,6 +1,6 @@
 package Monat_03_Package;
 
-public class VoidMethod {
+public class voidMethod {
     public static void main(String[] args) {
 
         boolean uyeMi = true;
