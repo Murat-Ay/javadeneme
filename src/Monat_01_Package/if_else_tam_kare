@@ -2,7 +2,7 @@ package Monat_01_Package;
 
 import java.util.Scanner;
 
-public class ay_tamkare2 {
+public class if_else_tamKare {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         boolean t=false;

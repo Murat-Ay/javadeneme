@@ -1,6 +1,6 @@
 package Monat_01_Package;
 
-public class ay_javabasari {
+public class javaErfolg {
     public static void main(String[] args) {
         String basari1 = "Inanmak ";
         String basari2 = "Calismak ";

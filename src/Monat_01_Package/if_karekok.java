@@ -2,7 +2,7 @@ package Monat_01_Package;
 
 import java.util.Scanner;
 
-public class ay_kare {
+public class if_karekok {
     public static void main(String[] args) {
         /*Kullanicidan bir pozitif sayi isteyin, sayının tam kare olup olmadığını bulunuz,
         tamkare ise true değilse false yazdırınız. Ornek : input : 16, output:4 */

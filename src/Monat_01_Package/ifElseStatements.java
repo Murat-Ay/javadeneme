@@ -2,7 +2,7 @@ package Monat_01_Package;
 
 import java.util.Scanner;
 
-public class ay_ifElseStatements {
+public class ifElseStatements {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("lutfen notunuzu giriniz");

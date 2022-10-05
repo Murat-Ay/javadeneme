@@ -1,6 +1,6 @@
 package Monat_01_Package;
 
-public class ay_stringToplama {
+public class stringPlus {
     public static void main(String[] args) {
         /* Kullanicinin String olarak verdigi iki fiyati
           toplayabilen bir kod yaziniz */

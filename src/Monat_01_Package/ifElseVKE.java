@@ -2,7 +2,7 @@ package Monat_01_Package;
 
 import java.util.Scanner;
 
-public class ay_ifElseVKE {
+public class ifElseVKE {
     public static void main(String[] args) {
         var scan = new Scanner(System.in);
         System.out.println("Lutfen Kg olarak kilonuzu giriniz");

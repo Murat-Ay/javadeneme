@@ -1,6 +1,6 @@
 package Monat_01_Package;
 import java.util.*;
-public class ay_tamkare1 {
+public class if_else_tamkare {
     public static void main(String arg[]) {
         Scanner input = new Scanner(System.in);
         long i, x, t = 0; // Değişkenlerin tanımlanması

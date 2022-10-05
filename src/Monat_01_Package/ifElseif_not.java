@@ -2,7 +2,7 @@ package Monat_01_Package;
 
 import java.util.Scanner;
 
-public class ay_ifElseif_not {
+public class ifElseif_not {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
