@@ -3,15 +3,13 @@ import java.util.ArrayList;
 import java.util.List;
 public class C07_PassByValue {
     public static void main(String[] args) {
-        /*
-        Uygulama : Main method’da bir list olusturup elemanlar atayalim.
+        /*  Uygulama : Main method’da bir list olusturup elemanlar atayalim.
         2 method olusturup once listeyi, sonra listedeki elemanlari degistirelim.
         - ilk method’da bizim listemiz disinda bir liste olusturup deger atayalim,
         sonra yeni listeyi bizim asil listemize atayalim ve asil listemizi main method’a dondurelim.
         - ikinci method’da bizim listemizin elementlerini degistirip,
         asil listemizi main method’a dondurelim.
-        Her iki method call’dan sonra listemizi main method’da yazdirip, degisimi kontrol edin.
-         */
+        Her iki method call’dan sonra listemizi main method’da yazdirip, degisimi kontrol edin.    */
         List<Integer> sayilar=new ArrayList<>();
         sayilar.add(1);
         sayilar.add(2);

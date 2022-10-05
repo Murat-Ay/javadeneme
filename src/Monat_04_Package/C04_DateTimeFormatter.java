@@ -20,7 +20,7 @@ import java.time.format.DateTimeFormatter;
             System.out.println(dtf4.format(ldt)); // 1/9/22
             DateTimeFormatter dtf5=DateTimeFormatter.ofPattern("d/MMM/YY"); //
             System.out.println(dtf5.format(ldt)); // 1/Sep/22
-        /*format olustururken
+        /* format olustururken
          GUN
          d : basta 0 varsa onu yazmadan gun numarasi
          dd: tek haneli gunleri 01 gibi basina sifir yazarak gun numarasi
