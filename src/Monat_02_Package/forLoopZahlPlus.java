@@ -1,8 +1,6 @@
 package Monat_02_Package;
-
 import java.util.Scanner;
-
-public class forLoopRakamlarToplami {
+public class forLoopZahlPlus {
     public static void main(String[] args) {
         //Kullanicidan pozitif bir tamsayi alip rakamlari toplamini
         //yazdirabilen bir kod yaziniz, forLoop ile

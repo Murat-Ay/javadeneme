@@ -1,5 +1,4 @@
 package Monat_02_Package;
-
 public class overloading {
     public static void toplama(int sayi1, int sayi2){
             int sonucInt = sayi1+sayi2;
@@ -9,7 +8,6 @@ public class overloading {
             double sonucDouble = sayi1+sayi2;
             System.out.println(sayi1 + "+ "  + sayi2 + "= "  + sonucDouble);
         }
-
         public static void main(String[] args){
             System.out.println("Tamsayı Toplama :");
             toplama(15,20);

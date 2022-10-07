@@ -1,8 +1,6 @@
 package Monat_02_Package;
-
 import java.util.Scanner;
-
-public class rakamlarToplamiFor {
+public class forZahlPlus {
     public static void main(String[] args) {
         // Kullanicidan pozitif bir sayi alip
         // sayinin rakamlar toplamini yazdirin
@@ -21,6 +19,4 @@ public class rakamlarToplamiFor {
             sayi=sayi/10;                   // isimizin bittigi birler basamagini yok eder
         }
         System.out.println("Rakamlar toplami : " + rakamlarToplami);
-    }
-    }
-
+    }}
