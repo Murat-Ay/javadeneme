@@ -3,11 +3,9 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class ATM_Automation {
-
     public static void main(String[] args) throws InterruptedException {
 
         System.out.println("                SAYIN JAVA, Ziraat Bankasina Hosgeldiniz             ");
-
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Lütfen 4 Haneli Sifrenizi Giriniz: ");

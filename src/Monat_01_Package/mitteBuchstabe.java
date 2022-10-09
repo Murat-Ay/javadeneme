@@ -2,10 +2,11 @@ package Monat_01_Package;
 
 import java.util.Scanner;
 
-public class ortadakiHarf {
+public class mitteBuchstabe {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         System.out.println("bir isim giriniz");
+
         String metin = scan.nextLine();
         int uzunluk=metin.length();
         int tekOrta=(uzunluk-1)/2;
