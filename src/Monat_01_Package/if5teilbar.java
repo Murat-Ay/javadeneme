@@ -1,7 +1,6 @@
 package Monat_01_Package;
 
 import java.util.Scanner;
-
 public class if5teilbar {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
