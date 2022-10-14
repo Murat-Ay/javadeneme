@@ -1,5 +1,4 @@
 package Monat_01_Package;
-
 import java.util.Scanner;
 
 public class werkTags {

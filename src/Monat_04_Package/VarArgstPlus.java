@@ -2,7 +2,7 @@ package Monat_04_Package;
 
 import static Monat_04_Package.Varargs.topla;
 
-public class VarArgstToplama {
+public class VarArgstPlus {
     public static void main(String[] args) {
         topla(2,3,4,5,16,7);
         carpma(2,3,4,5,-6);
