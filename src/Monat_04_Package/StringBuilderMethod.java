@@ -1,6 +1,6 @@
 package Monat_04_Package;
 
-public class StringBuilderMethodlar {
+public class StringBuilderMethod {
     public static void main(String[] args) {
         StringBuilder sb1=new StringBuilder("ali can");
         sb1.append( "8877" );

@@ -2,7 +2,7 @@ package Monat_04_Package;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-    public class C04_DateTimeFormatter {
+    public class C04_DateTimeFormat {
         public static void main(String[] args) {
             LocalDateTime ldt=LocalDateTime.now();
             System.out.println(ldt); //  2022-09-01T19:23:27.851814
@@ -37,8 +37,7 @@ import java.time.format.DateTimeFormatter;
             /*Saat : (24 saat uzerinden istiyorsak H, 12 saat duzeninde istiyorsak h)
             HH : saatin tamami, tek rakamli saat olursa 02 gibi
             H  : tek rakamli saat olursa sadece saati
-            a yazarsak AM veya PM degerini yazar
-                    */
+            a yazarsak AM veya PM degerini yazar                */
             // 19:38
             DateTimeFormatter dtf6=DateTimeFormatter.ofPattern("HH:mm"); //
             System.out.println(dtf6.format(ldt)); // 19:39
