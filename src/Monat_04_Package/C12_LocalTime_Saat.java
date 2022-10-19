@@ -1,5 +1,4 @@
 package Monat_04_Package;
-
 import java.time.LocalTime;
 
 public class C12_LocalTime_Saat {
