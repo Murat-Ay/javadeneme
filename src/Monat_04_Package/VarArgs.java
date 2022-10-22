@@ -1,6 +1,6 @@
 package Monat_04_Package;
 
-public class Varargs {
+public class VarArgs {
     public static void main(String[] args) {
         /* Java'da varargs icerisine birden fazla element alabilen
       array altyapisini kullanan bir objedir

@@ -1,6 +1,6 @@
 package Monat_04_Package;
 
-import static Monat_04_Package.Varargs.topla;
+import static Monat_04_Package.VarArgs.topla;
 
 public class VarArgstPlus {
     public static void main(String[] args) {

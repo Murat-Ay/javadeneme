@@ -1,9 +1,7 @@
 package Monat_03_Package;
-
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
-
 public class arrayList_Not {
         static int numberStudents;
         static int totalScores;
