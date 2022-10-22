@@ -1,4 +1,4 @@
-package Monat_01_Package;
+package monate_01_Package;
 
 import java.util.Scanner;
 public class mitteBuchstabe {

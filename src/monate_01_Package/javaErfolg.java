@@ -1,4 +1,4 @@
-package Monat_01_Package;
+package monate_01_Package;
 
 public class javaErfolg {
     public static void main(String[] args) {

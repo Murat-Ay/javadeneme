@@ -1,4 +1,4 @@
-package Monat_01_Package;
+package monate_01_Package;
 public class stringPlus {
     public static void main(String[] args) {
         /* Kullanicinin String olarak verdigi iki fiyati
