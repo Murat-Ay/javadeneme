@@ -1,4 +1,4 @@
-package Monat_02_Package;
+package monat_02_Package;
 public class overloading {
     public static void toplama(int sayi1, int sayi2){
             int sonucInt = sayi1+sayi2;

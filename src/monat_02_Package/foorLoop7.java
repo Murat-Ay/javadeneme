@@ -1,4 +1,4 @@
-package Monat_02_Package;
+package monat_02_Package;
 
 public class foorLoop7 {
     public static void main(String[] args) {

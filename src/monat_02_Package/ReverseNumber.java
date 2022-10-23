@@ -1,4 +1,4 @@
-package Monat_02_Package;
+package monat_02_Package;
 
 public class ReverseNumber {
     public static void main(String[] args) {

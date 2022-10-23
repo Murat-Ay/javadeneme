@@ -1,4 +1,4 @@
-package Monat_02_Package;
+package monat_02_Package;
 import java.util.Scanner;
 public class WhileBolme {
     //Kullanicidan bolunen ve bolen seklinde 2 sayi alalim ve bolme operatoru
