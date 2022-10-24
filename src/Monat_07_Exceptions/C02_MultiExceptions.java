@@ -15,8 +15,7 @@ public class C02_MultiExceptions {
           ANCAK su nokta unutulmamalidir
           Java try blogunu calistirirken
           ilk buldugu exception'da try blogunu calistirmayi durdurur
-          try blogundaki bazi kodlar CALISMAYABILIR
-         */
+          try blogundaki bazi kodlar CALISMAYABILIR       */
         String str= "Java";
         int[] arr = {3,4,6,8,9};
         // 0'dan 10'a kadar rastgele bir sayi uretip
