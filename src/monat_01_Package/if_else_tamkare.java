@@ -1,4 +1,4 @@
-package monate_01_Package;
+package monat_01_Package;
 import java.util.*;
 public class if_else_tamkare {
     public static void main(String arg[]) {

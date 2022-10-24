@@ -1,4 +1,4 @@
-package monate_01_Package;
+package monat_01_Package;
 
 public class kolayToplama {
     public static void main(String[] args) {
