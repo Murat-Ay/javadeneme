@@ -1,4 +1,4 @@
-package Monat_03_Package;
+package monat_03_Package;
 public class arrayList_For_EachLoop {
         public static void main(String[] args) {
             // Verilen bir array'in tum elementlerini yazdirin

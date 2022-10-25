@@ -1,4 +1,4 @@
-package Monat_03_Package;
+package monat_03_Package;
 
 public class autoRunner {
         public static void main(String[] args) {

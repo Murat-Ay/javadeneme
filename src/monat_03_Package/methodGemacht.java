@@ -1,4 +1,4 @@
-package Monat_03_Package;
+package monat_03_Package;
 public class methodGemacht {
     public static int toplama(int sayi1, int sayi2) {
         int sonuc = sayi1 + sayi2;
