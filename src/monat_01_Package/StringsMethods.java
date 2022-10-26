@@ -10,7 +10,7 @@ public class StringsMethods {
         System.out.println(A.indexOf( "e" ));//1
         System.out.println(A.startsWith("H"));//true
         System.out.println(A.endsWith("o"));//true
-        System.out.println(A.repeat( 3 ));//HelloHelloHello
+        System.out.println(A.repeat( 2 ));//HelloHello
         System.out.println(A.replace( "llo","y" ));//Hey
         System.out.println(A.concat( B ));//HelloWorld
         System.out.println(A.substring( 2,4 ));//ll
@@ -19,6 +19,5 @@ public class StringsMethods {
         System.out.println(A.replace( "Hello","Java" ));//Java
         System.out.println(A.toUpperCase() );//HELLO
         System.out.println(B.toLowerCase() );//world
-
     }
 }
