@@ -4,6 +4,8 @@ public class StringsMethods {
         String A= "Hello";
         String B= "World";
         System.out.println("Hello"+ B);//HelloWorld
+        System.out.println("Hello"+" World");//Hello World
+        System.out.println(A + B);//HelloWorld
         System.out.println(A);//Hello
         System.out.println(A.length());//5
         System.out.println(A.charAt( 4 ) );//o
