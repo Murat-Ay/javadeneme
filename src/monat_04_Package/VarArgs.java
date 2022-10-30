@@ -1,4 +1,4 @@
-package Monat_04_Package;
+package monat_04_Package;
 
 public class VarArgs {
     public static void main(String[] args) {

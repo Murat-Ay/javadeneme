@@ -1,4 +1,4 @@
-package Monat_04_Package;
+package monat_04_Package;
 
 import java.util.Arrays;
 

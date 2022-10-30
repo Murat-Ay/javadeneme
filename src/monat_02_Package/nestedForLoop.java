@@ -1,6 +1,6 @@
 package monat_02_Package;
 
-public class nestedForLoopCarpimT {
+public class nestedForLoop {
     public static void main(String[] args) {
         int sutun=8;
         int satir=10;

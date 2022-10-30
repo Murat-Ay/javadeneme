@@ -1,4 +1,4 @@
-package Monat_04_Package;
+package monat_04_Package;
 
 public class C03_StaticKeyword {
 

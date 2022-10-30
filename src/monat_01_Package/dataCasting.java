@@ -2,6 +2,7 @@ package monat_01_Package;
 
 public class dataCasting {
 
+
         public static void main(String[] args) {
             String isim="Recep";
             System.out.println(isim);

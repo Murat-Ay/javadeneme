@@ -1,9 +1,8 @@
-package Monat_04_Package;
+package monat_04_Package;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.time.ZoneId;
-
 public class DateTimeZoneId {
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Monat_04_Package;
+package monat_04_Package;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

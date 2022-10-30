@@ -1,6 +1,5 @@
 package monat_02_Package;
-
-public class stringSayiToplama {
+public class stringZahlenPlus {
     //Kullanicinin String olarak verdigi iki fiyati
     //toplayabilen bir kod yaziniz*/
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Monat_04_Package;
+package monat_04_Package;
 
 public class C05_PassByValue {
         public static void main(String[] args) {

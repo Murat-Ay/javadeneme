@@ -1,4 +1,4 @@
-package Monat_04_Package;
+package monat_04_Package;
 import java.util.ArrayList;
 import java.util.List;
 public class C07_PassByValue {

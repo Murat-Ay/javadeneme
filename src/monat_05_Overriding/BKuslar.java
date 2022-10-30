@@ -1,4 +1,4 @@
-package Monat_05_Overriding;
+package monat_05_Overriding;
 
 public class BKuslar extends AHayvanlar {
     String tur="Kus";
