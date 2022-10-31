@@ -11,7 +11,6 @@ public class DateTimeZoneId {
         LocalTime saat=LocalTime.now();
         System.out.println(saat);
         System.out.println(tarih.getDayOfYear());
-
         LocalTime localSaat = LocalTime.now(ZoneId.of("Europe/Berlin"));
         System.out.println(localSaat); // 19:03:27.658174
         LocalTime localSaat1=LocalTime.now(ZoneId.of("Europe/London"));
