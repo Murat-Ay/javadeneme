@@ -9,8 +9,7 @@ public class Exceptions_try_Catch {
             int a= scan.nextInt();
             System.out.println("Lutfen bolecek tamsayiyi girin");
             int b= scan.nextInt();
-       /*
-         yazdigimiz kodda exception olusma ihtimali ongordugumuzde
+       /* yazdigimiz kodda exception olusma ihtimali ongordugumuzde
          o kod blogunu try- catch ile sarmalariz
          try/ catch blogunda 3 bolum vardir
          1- try blogu : yapmak istedigimiz, sorun cikarma potansiyeline sahip code parcacigi
@@ -20,9 +19,7 @@ public class Exceptions_try_Catch {
         3- catch {} blogu : exception yakalandiginda calisacak kodlar
         try catch blogu ile hem sorunu kullaniciya bildirip
         hem de kodun calismaya devam etmesini saglayabiliriz.
-        Buna handle exception denir
-        boylece kodumuz calismasina devam etmis olur
-        */
+        Buna handle exception denir boylece kodumuz calismasina devam etmis olur     */
             try {
                 System.out.println("Bolme isleminin sonucu : "+  a/b);
             } catch (ArithmeticException e) {

@@ -1,6 +1,6 @@
 package Monat_07_Exceptions;
 
-public class C05_Exceptions {
+public class C05_ExceptionsArray {
     public static void main(String[] args) {
         // 1- NullPointerException
         String str=null;

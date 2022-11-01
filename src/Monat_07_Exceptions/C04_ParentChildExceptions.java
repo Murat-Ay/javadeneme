@@ -3,7 +3,6 @@ package Monat_07_Exceptions;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
 public class C04_ParentChildExceptions {
     public static void main(String[] args) {
         /* eger parent ve child exception'lari try catch ile handle etmek isterseniz
