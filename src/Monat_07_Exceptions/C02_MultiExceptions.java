@@ -4,8 +4,7 @@ import java.util.Random;
 
 public class C02_MultiExceptions {
     public static void main(String[] args) {
-        /*
-          Kodumuzu yazarken exception olusma ihtimali olan bolum sayisi
+        /* Kodumuzu yazarken exception olusma ihtimali olan bolum sayisi
           birden fazla ise exception'larin turlerine bakilir
           Eger exception'lar birbirleriyle ilgili degillerse
           riskli kod bloklarini ayri ayri try catc bloguna alabiliriz

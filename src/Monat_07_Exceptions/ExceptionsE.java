@@ -3,7 +3,6 @@ package Monat_07_Exceptions;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class ExceptionsE {
-
         public static void main(String[] args) {
         /* kullanicidan bir tamsayi isteyin
         kullanici tam sayi girerse karesini yazdirin
@@ -11,12 +10,13 @@ public class ExceptionsE {
         hata mesaji verip yeniden deger isteyin
         kullanici tamsayi girene kadar islem devam etsin    */
 
-        /*try/catch blogundaki e yazdigimiz exception turunde
+        /* try/catch blogundaki e yazdigimiz exception turunde
            bir exception yalkalinirsa store edecegimiz variable ismidir
            ismi e olmak zorunda degildir ancak genel kullanim e seklindedir
            e objesi ile kullaniciya throwable class'inda olusturulan
            hazir exception messajlari yazdirilabilir
            veya biz e'yi kullanmadan istedigimiz exception messajini yazdirabiliriz  */
+
             Scanner scan;
             boolean tekrar=true;
             int girilensayi=0;
