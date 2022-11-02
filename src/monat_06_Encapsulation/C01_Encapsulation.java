@@ -1,4 +1,4 @@
-package Monat_06_Encapsulation;
+package monat_06_Encapsulation;
 
 public class C01_Encapsulation {
         private int yas;
