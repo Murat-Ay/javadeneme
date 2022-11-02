@@ -2,7 +2,7 @@ package Monat_07_Exceptions;
 
 import java.util.Scanner;
 
-public class aaa {
+public class C01_Try_Catch {
 
 
     public static void main(String[] args) {
