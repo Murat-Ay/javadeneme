@@ -2,9 +2,7 @@ package Monat_07_Exceptions;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-
 public class C01_IOExceptions {
-
         public static void main(String[] args) throws FileNotFoundException {
         /* method signature'ina ekledigimiz
           throws FileNotFoundException
