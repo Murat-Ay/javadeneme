@@ -1,4 +1,4 @@
-package Monat_07_Exceptions;
+package monat_07_Exceptions;
 
 public class C09_Final {
     static final int OKUL=111;

@@ -1,4 +1,4 @@
-package Monat_07_Exceptions;
+package monat_07_Exceptions;
 
 import java.util.Random;
 

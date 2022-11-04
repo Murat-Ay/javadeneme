@@ -1,4 +1,4 @@
-package Monat_07_Exceptions;
+package monat_07_Exceptions;
 
 public class C06_Exceptions {
     public static void main(String[] args) {
