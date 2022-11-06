@@ -8,7 +8,5 @@ public class TestNG_pomXML {
         <artifactId>testng</artifactId>
         <version>7.6.1</version>
         <scope>test</scope>
-    </dependency>
-
-     */
+    </dependency>       */
 }
