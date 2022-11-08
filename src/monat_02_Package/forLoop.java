@@ -15,6 +15,8 @@ public class forLoop {
         for (int i = 1; i <=50; i+=5) {
             System.out.print(i + " ");
         }
+
+
         System.out.println();
         System.out.println("Merhaba,\nbana kalbin kadar temiz bu kod sayfasını ayirdigin için teşekkür ederim");
     }}
