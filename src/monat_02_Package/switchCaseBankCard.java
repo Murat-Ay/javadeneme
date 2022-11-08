@@ -1,6 +1,6 @@
 package monat_02_Package;
 import java.util.Scanner;
-public class switchCaseBankamatik {
+public class switchCaseBankCard {
     public static void main(String[] args) {
         System.out.println("*******************************");
         System.out.println("\tATM'ye Hosgeldiniz.");
