@@ -11,6 +11,7 @@ public class methodErschaffen {
         System.out.println("sayilar toplami:"+ dreiSayiTopla(4,6,7)); //17
         System.out.println("sayilar toplami:"+ dreiSayiTopla(56,-65,11)); //2
     }
+
     public static int dreiSayiTopla(int sayi1, int sayi2, int sayi3){
         return sayi1+sayi2+sayi3;
     }
