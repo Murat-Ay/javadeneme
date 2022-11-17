@@ -14,5 +14,6 @@ public class Mat_AsalSayiMi {
                 return false;
             }
         }
+
         return true; }
 }
