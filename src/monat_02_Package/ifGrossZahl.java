@@ -1,6 +1,7 @@
 package monat_02_Package;
 import java.util.Scanner;
 public class ifGrossZahl {
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int enBuyukSayi = 0;
