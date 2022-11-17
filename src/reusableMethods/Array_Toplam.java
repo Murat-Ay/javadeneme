@@ -1,6 +1,6 @@
-package monat_03_Package;
+package reusableMethods;
 
-public class array_toplam {
+public class Array_Toplam {
     public static void main(String[] args) {
         // Verilen bir array’deki pozitif tamsayilari toplayip
         // sonucu bize donduren bir method yaziniz

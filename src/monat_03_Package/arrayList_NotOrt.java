@@ -2,13 +2,13 @@ package monat_03_Package;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
-public class arrayList_Not {
+public class arrayList_NotOrt {
         static int numberStudents;
         static int totalScores;
         static int score;
         public static void main(String[] args) {
-    /*    Soru : Bir ogretmenden ogrencilerin notlarini girmesini isteyin, not girme islemi bittiginde Q’ya basmalidir.
-    Not grime islemi bittikten sonra asagidaki sekilde output hazirlayin
+        /*    Soru : Bir ogretmenden ogrencilerin notlarini girmesini isteyin, not girme islemi bittiginde Q’ya basmalidir.
+        Not girme islemi bittikten sonra asagidaki sekilde output hazirlayin
         not ortalamasi : …..
         ogrenci sayisi : …..
         ortalama altindaki ogrenci sayisi : ….
