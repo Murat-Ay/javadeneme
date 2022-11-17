@@ -1,6 +1,6 @@
 package reusableMethods;
 
-public class Mat_ArmStrong {
+public class Mat_ArmStrongSayi {
     public static void main(String[] args) {
         //Tüm basamaklarındaki rakamların sayı değerlerinin küpleri toplamı,
         //kendisine eşit olan sayılara "Armstrong sayı"denir.
