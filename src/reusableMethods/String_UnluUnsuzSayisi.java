@@ -8,7 +8,7 @@ public class String_UnluUnsuzSayisi {
     public static void main(String[] args) {
 
         //1. yol
-        String word = "Team 10 Projeye Baslayacak";
+        String word = "IT Ekibi Yeni Projeye Baslayacak";
         int sesliSayisi = 0, sessizSayisi = 0;
         word = word.toLowerCase();
 
@@ -23,7 +23,6 @@ public class String_UnluUnsuzSayisi {
 
         System.out.println(numbers(word));
     }
-
     // 2.yol
     public static String numbers(String word) {
         int countVowels = 0;
