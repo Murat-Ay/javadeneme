@@ -22,7 +22,7 @@ public class autoRunner {
             // Araba ozelllikler : ilanNo=1456, marka='Mercedes', model='S320', yil=2000, fiyat=10000
             // Parametrelerin farkli isimde olmasi buyuk projelerde sorun olur
             // Cok kisinin calistigi projelerde parametre ismi ile instance isminin
-            // ayni olmasini TERCIH EDERIZ
+            // ayni olmasini TERCIH EDERIZ.
         }
     }
 
