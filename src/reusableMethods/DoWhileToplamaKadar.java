@@ -2,7 +2,7 @@ package reusableMethods;
 
 import java.util.Scanner;
 
-public class DoWhileToplamakadar {
+public class DoWhileToplamaKadar {
     public static void main(String[] args) {
      /* Kullanicidan toplanmak uzere sayilar isteyin.
      Sayi adedi 10'u gecerse yada toplami 500'u gecerse " Bu kadar sayi yeter
