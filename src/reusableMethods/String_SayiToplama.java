@@ -1,5 +1,5 @@
-package monat_01_Package;
-public class stringPlus {
+package reusableMethods;
+public class String_SayiToplama {
     public static void main(String[] args) {
         /* Kullanicinin String olarak verdigi iki fiyati
           toplayabilen bir kod yaziniz */

@@ -3,6 +3,7 @@ import java.util.*;
 public class if_else_tamkare {
     public static void main(String arg[]) {
         Scanner input = new Scanner(System.in);
+        System.out.println("lutfen bir sayi giriniz");
         long i, x, t = 0; // Değişkenlerin tanımlanması
         x = input.nextInt(); // “x”in girilmesi
         for (i = 0; i <= x ; i++) { // (X/2+1) kere dönen döngünün oluşturulması

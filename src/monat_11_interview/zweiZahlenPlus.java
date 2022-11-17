@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class zweiZahlenPlus {
     public static void main(String[] args) {
-/* Kullanıcıdan iki sayı alın. bu sayılardan küçük olandan büyük olan sayıya kadar olan tüm sayıların
+/* Kullanıcıdan iki sayı alın.Bu sayılardan küçük olandan büyük olan sayıya kadar olan tüm sayıların
  toplamını bulan bir kod yazınız. (her iki sayı da toplama dahil olmalı)  */
         Scanner scan= new Scanner(System.in);
         System.out.print("lütfen bir tamsayı giriniz : ");
