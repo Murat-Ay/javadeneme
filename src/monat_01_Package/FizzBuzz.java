@@ -2,7 +2,7 @@ package monat_01_Package;
 
 import java.util.Scanner;
 
-public class fizzBuzz {
+public class FizzBuzz {
     public static void main(String[] args) {
         /* Kullanicidan pozitif bir sayi alin, 1’den baslayarak tum tamsayilari yazdirin, sira
         - 3 ile bolunebilen bir sayiya gelirse, sayi yerine fizz
