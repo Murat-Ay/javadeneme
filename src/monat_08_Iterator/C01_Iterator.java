@@ -1,4 +1,4 @@
-package monat_08_iterator_collections;
+package monat_08_Iterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -20,11 +20,9 @@ public class C01_Iterator {
             System.out.print(each + " ");
 
         }
-
         System.out.println("");
         System.out.println(sayilar);
-        /*
-        Iterator interface'dir, dolayisiyla constructor'i yoktur ve obje olusturulamaz
+        /*  Iterator interface'dir, dolayisiyla constructor'i yoktur ve obje olusturulamaz
         concrete class'lardan iterator'in ozelliklerini kullanmak isteyenler
         iterator interface'indeki method'lari kendilerine uyarlamis olmalidir
         biz de o uyarlanan method'lari kullanacagiz.         */

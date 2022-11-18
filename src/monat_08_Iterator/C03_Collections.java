@@ -1,4 +1,4 @@
-package monat_08_iterator_collections;
+package monat_08_Iterator;
 
 import java.util.ArrayList;
 import java.util.List;
