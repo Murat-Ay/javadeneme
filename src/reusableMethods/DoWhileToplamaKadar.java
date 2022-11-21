@@ -18,7 +18,6 @@ public class DoWhileToplamaKadar {
             sayi = imput.nextInt();
             toplam += sayi;
             sayac++;
-
         }
         if (toplam > 500) {
             System.out.println( sayac + "adet sayi girdiniz .toplami" + toplam );

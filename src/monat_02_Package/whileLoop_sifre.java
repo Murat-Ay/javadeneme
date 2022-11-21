@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class whileLoop_sifre {
     public static void main(String[] args) {
-        /*Kullanicidan sifre isteyin asagidaki sartlari saglamayan sifrelerdez
+        /*Kullanicidan sifre isteyin asagidaki sartlari saglamayan sifrelerden
         hatalari yazdirip, kullanicinin yeni sifre girmesi isteyin
         Gecerli bir sifre yazilincaya kadar bu islemi tekrar edin
         gecerli sifre yazilinca sifreniz basari ile kaydedildi yazdirin, sartlar:
