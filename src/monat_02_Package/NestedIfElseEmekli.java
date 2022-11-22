@@ -17,12 +17,10 @@ public class NestedIfElseEmekli {
         System.out.println("Lutfen tam sayi olarak yasinizi giriniz");
         int yas= scan.nextInt();
         if (cinsiyet=='K' || cinsiyet=='k'){ // Kadin olanlar icin bu bolum calisacak
-
             if (yas<18 || yas>80) System.out.println("gecersiz yas");
             else if (yas>=60) System.out.println("Emekli olabilirsin");
             else System.out.println("emekli olmak icin " +(60-yas) + " yil daha calismalisin");
         } else if (cinsiyet=='E' || cinsiyet=='e') { // Erkek olanlar icin bu bolum calisacak
-
             if (yas<18 || yas>80) System.out.println("gecersiz yas");
             else if (yas>=65) System.out.println("Emekli olabilirsin");
             else System.out.println("emekli olmak icin " +(65-yas) + " yil daha calismalisin");
