@@ -1,5 +1,4 @@
 package monat_02_Package;
-
 import java.util.Scanner;
 
 public class NestedIfElseEmekli {
@@ -8,12 +7,10 @@ public class NestedIfElseEmekli {
         // Kadin, 60 yas ve uzeri , Erkek 65 yas ve uzeri emekli olabilir.
         // Cinsiyet ve yasini dikkate alarak “Emekli olabilirsin”
         // veya “Emekli olmak icin .. Yil daha calisman gerekir” yazdirin.
-        /*
-           eger degisken sayimiz birden fazla ise
+        /* eger degisken sayimiz birden fazla ise
            degiskenlerden birini oncelige alarak,
            ona gore bir if else yapisi kurulur
-           ornegin bu soruda kadin/erken secimini ana degisken yapalim
-         */
+           ornegin bu soruda kadin/erken secimini ana degisken yapalim     */
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen Cinsiyetinizi Giriniz\nK : Kadin, E : Erkek ");
         char cinsiyet=scan.next().charAt(0);
