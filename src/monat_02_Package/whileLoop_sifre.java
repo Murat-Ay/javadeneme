@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 public class whileLoop_sifre {
     public static void main(String[] args) {
-        /*Kullanicidan sifre isteyin asagidaki sartlari saglamayan sifrelerden
+        /* Kullanicidan sifre isteyin asagidaki sartlari saglamayan sifrelerden
         hatalari yazdirip, kullanicinin yeni sifre girmesi isteyin
         Gecerli bir sifre yazilincaya kadar bu islemi tekrar edin
         gecerli sifre yazilinca sifreniz basari ile kaydedildi yazdirin, sartlar:
         - sifrenin ilk karakteri kucuk harf olmali
-        - sifrenin son karakteri sayi olmali*/
+        - sifrenin son karakteri sayi olmali */
 
         Scanner scan = new Scanner(System.in);
         boolean sifreDogrumu=false;
