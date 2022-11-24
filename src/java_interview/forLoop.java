@@ -1,4 +1,4 @@
-package monat_11_interview;
+package java_interview;
 
 public class forLoop {
     public static void main(String[] args) {

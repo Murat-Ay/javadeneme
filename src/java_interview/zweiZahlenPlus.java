@@ -1,4 +1,4 @@
-package monat_11_interview;
+package java_interview;
 
 import java.util.Scanner;
 
