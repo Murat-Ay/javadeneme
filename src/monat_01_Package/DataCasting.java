@@ -1,6 +1,6 @@
 package monat_01_Package;
 
-public class dataCasting {
+public class DataCasting {
 
 
         public static void main(String[] args) {

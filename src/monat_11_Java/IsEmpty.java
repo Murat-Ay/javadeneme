@@ -7,7 +7,7 @@ public class IsEmpty {
     başka bir deyişle hiçbir şeyden oluşuyorsa true(doğru) ,
     içeriğinde 1 veya daha fazla karakter barındırıyorsa false(yanlış) sonucunu veren string sınıfı metodudur.   */
 
-    String doluMetin = "Tam Metin";
+    String doluMetin = "Metin";
     String bosMetin = "";
     String boslukluMetin = "  ";
 
