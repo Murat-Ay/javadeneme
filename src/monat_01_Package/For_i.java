@@ -1,6 +1,6 @@
 package monat_01_Package;
 
-public class for_i {
+public class For_i {
     public static void main(String[] args) {
 
 

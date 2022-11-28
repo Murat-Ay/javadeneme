@@ -18,6 +18,7 @@ public class DoWhileToplamaKadar {
             toplam += sayi;
             sayac++;
         }
+
         if (toplam > 500) {
             System.out.println( sayac + "adet sayi girdiniz .toplami" + toplam );
         } else System.out.println( "bu kadar sayi yeter ." + sayac + "adet sayi girdiniz" + toplam );
