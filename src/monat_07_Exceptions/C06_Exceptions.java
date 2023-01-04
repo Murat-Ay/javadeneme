@@ -2,6 +2,7 @@ package monat_07_Exceptions;
 
 public class C06_Exceptions {
     public static void main(String[] args) {
+
         // 4-NumberFormatException
         //parseInt () kullandigimizda string'de sayi disinda bir karakter olursa 56a vb..
         String str= "567";

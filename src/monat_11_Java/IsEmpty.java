@@ -11,6 +11,7 @@ public class IsEmpty {
     String bosMetin = "";
     String boslukluMetin = "  ";
 
+
 System.out.println(doluMetin.isEmpty()); //false
 System.out.println(bosMetin.isEmpty()); //true
 System.out.println(boslukluMetin.isEmpty()); //false
