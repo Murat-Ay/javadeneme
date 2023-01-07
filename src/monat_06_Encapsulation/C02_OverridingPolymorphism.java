@@ -2,14 +2,13 @@ package monat_06_Encapsulation;
 
 public class C02_OverridingPolymorphism extends C01_OverloadingPolymorphism {
     public static void main(String[] args) {
-        /*
-          Overriding parent class'daki bir method'u child class'a uyarlamak icin kullanilir
+        /* Overriding parent class'daki bir method'u child class'a uyarlamak icin kullanilir
           Overriding yapmak icin parent class'daki method ile child class'daki method'un
           signature'lari AYNI OLMALIDIR.
           Child class'a uyarlamayi method body'sinde
           Signature farkli olursa bu iki method overriden / overriding method olmaz
-          farkli 2 method olur
-         */
+          farkli 2 method olur         */
+
         C02_OverridingPolymorphism obj=new C02_OverridingPolymorphism();
         obj.islem(4,5); // 20.0
         obj.islem("Veli", "Cem"); // Veli
