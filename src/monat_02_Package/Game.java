@@ -19,6 +19,7 @@ public class Game {
             userChoose = scan.nextInt();
             compChoose = random.nextInt(3);
 
+
             if (userChoose == 1 && compChoose== 2){
                 System.out.println("Kagit tasi kaplar --> Computer +1");
                 compPoint++;
@@ -44,6 +45,7 @@ public class Game {
                 userPoint++;
                 System.out.println("User = "+ userPoint + " vs. Computer = "+ compPoint);
             }
+
             else{
                 System.out.println("Berabere...");
                 System.out.println("User = "+ userPoint + " vs. Computer = "+ compPoint);
