@@ -3,8 +3,6 @@ package monat_02_Package;
 public class replaceAll {
     public static void main(String[] args) {
 
-
-
     String  str= "java ogRe2@nMek3 #ne +Gu=zel";
     str=str.replaceAll("\\d", "");
     str=str.replaceAll("\\s", "3");
