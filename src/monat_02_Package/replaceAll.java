@@ -11,6 +11,7 @@ public class replaceAll {
     str=str.replace("3", " ");
 
 
+
     str=str.toLowerCase();
     str=str.substring(0,1).toUpperCase() + str.substring(1)+".";
 
