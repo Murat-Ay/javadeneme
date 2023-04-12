@@ -6,6 +6,8 @@ public class replaceAll {
     String  str= "java ogRe2@nMek3 #ne +Gu=zel";
     str=str.replaceAll("\\d", "");
     str=str.replaceAll("\\s", "3");
+
+
     System.out.println(str);
     str = str.replaceAll("\\W", "");
     str=str.replace("3", " ");
