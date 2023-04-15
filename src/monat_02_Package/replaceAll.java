@@ -7,10 +7,6 @@ public class replaceAll {
     str=str.replaceAll("\\d", "");
     str=str.replaceAll("\\s", "3");
 
-
-
-
-
     System.out.println(str);
     str = str.replaceAll("\\W", "");
     str=str.replace("3", " ");
