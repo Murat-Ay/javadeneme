@@ -8,8 +8,6 @@ public class DoWhileToplamaKadar {
      Sayi adedi 10'u gecerse yada toplami 500'u gecerse " Bu kadar sayi yeter
      ...adet sayi girdiniz toplami..." yazdirin */
 
-
-
         Scanner imput = new Scanner( System.in );
         int sayi = 0;
         int toplam = 0;
@@ -20,7 +18,6 @@ public class DoWhileToplamaKadar {
             toplam += sayi;
             sayac++;
         }
-
         if (toplam > 500) {
             System.out.println( sayac + "adet sayi girdiniz .toplami" + toplam );
         } else System.out.println( "bu kadar sayi yeter ." + sayac + "adet sayi girdiniz" + toplam );
