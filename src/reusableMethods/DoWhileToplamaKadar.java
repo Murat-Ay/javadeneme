@@ -9,8 +9,6 @@ public class DoWhileToplamaKadar {
      ...adet sayi girdiniz toplami..." yazdirin */
 
         Scanner imput = new Scanner( System.in );
-
-
         int sayi = 0;
         int toplam = 0;
         int sayac = 0;
