@@ -14,6 +14,8 @@ public class DoWhileToplamaKadar {
         int sayac = 0;
 
 
+
+
         while (sayac < 11 && toplam < 500) {
             System.out.println( "lutfen toplanmak uzere sayı giriniz" );
             sayi = imput.nextInt();
