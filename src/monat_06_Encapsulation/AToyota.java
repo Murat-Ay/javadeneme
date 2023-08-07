@@ -5,6 +5,7 @@ public class AToyota {
         System.out.println("Toyota cons");
     }
     String marka="Toyota";
+
     String uretimYeri="Belirtilmemis";
 }
 
